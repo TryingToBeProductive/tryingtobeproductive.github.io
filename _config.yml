@@ -8,6 +8,6 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 title: Trying to be Productivity's homepage
 description: Blogging about my journy to become more productive. I will show what I’ve learn so you don’t have to make the same struggle.
