@@ -1,13 +1,3 @@
-lsi: false
-safe: true
-source: [your repo's top level directory]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-theme: jekyll-theme-minima
 title: Trying to be Productivity's homepage
 description: Blogging about my journy to become more productive. I will show what I’ve learn so you don’t have to make the same struggle.
+theme: minima
