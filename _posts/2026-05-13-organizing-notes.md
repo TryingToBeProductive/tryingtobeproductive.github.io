@@ -4,8 +4,6 @@ title: "Organizing Notes"
 date: 2026-05-13 08:38:34 +0000
 ---
 
-*2026/05/11*
-
 *Estimated Reading Time : 5-6min*
 
 Needless to say, if we continuously [take notes](/2026/02/11/note-taking/) without organizing them, we eventually end up with a pile of valuable information and insights that we can no longer meaningfully access. Capturing ideas efficiently is important, and modern [note-taking](/2026/02/11/note-taking/) apps have been heavily optimized for this purpose. Nevertheless, systematizing personal knowledge cannot be done both quickly and meaningfully, even with countless add-ons and built-in functions. Collecting and organizing notes is itself part of the thinking process, which makes it difficult to reduce effort while simultaneously increasing speed.

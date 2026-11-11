@@ -4,8 +4,6 @@ title: "Sustainability"
 date: 2026-04-29 08:47:35 +0000
 ---
 
-*2026/04/28*
-
 *Estimated Reading Time : 4-5min*
 
 The word “sustainability” has been used frequently in recent years, largely due to environmental concerns. As a result, many people associate it with large-scale ecosystems. However, the concept can also be applied to improving our personal systems.

@@ -4,8 +4,6 @@ title: "Wikipedia"
 date: 2026-04-23 19:44:35 +0000
 ---
 
-*2026/04/22*
-
 *Estimated Reading Time : 3-4min*
 
 It is difficult to determine whether Wikipedia is a distraction or a productive tool. Many people have experienced the “Wikipedia rabbit hole,” where one article leads to another through hyperlinks. By simply following references, it is easy to spend hours browsing facts that have little to do with the task at hand. At worst, you may discover entirely new franchises, hobbies, or communities that pull you even further into procrastination.

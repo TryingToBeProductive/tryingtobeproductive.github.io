@@ -4,9 +4,7 @@ title: "Second Best Time is Now"
 date: 2026-08-13 18:39:46 +0000
 ---
 
-*2026/08/13*
-
-*Estimated Reading Time: 3-4min*
+*Estimated Reading Time : 3-4min*
 
 To make up for the regrets caused by taking no action, the phrase “the second-best time is now” is often thrown around in productivity circles. At first glance, the logic is sound: you cannot turn back time, and problems will not solve themselves, so you need to make amends with your past and future selves. However, as with most things, context matters, and this phrase is no exception.
 

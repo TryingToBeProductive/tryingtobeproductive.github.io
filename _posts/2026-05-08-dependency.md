@@ -4,8 +4,6 @@ title: "Dependency"
 date: 2026-05-08 08:49:41 +0000
 ---
 
-*2026/05/06*
-
 *Estimated Reading Time : 4-5min*
 
 We like to think of ourselves as independent—capable of living our lives and accomplishing tasks without relying on others. However, even a brief moment of self-reflection quickly dismantles that image. We depend on income, social safety nets, medicine, public transportation, trust, and global supply chains simply to survive. Programmers understand this well when an application suddenly refuses to work because a dependency version is either too old or too new. Even on a smaller scale, we rely on pre-built knowledge, services, and frameworks to construct our workflows. Productivity systems do not exist in a vacuum, so analyzing their dependencies can become the starting point for improvement.

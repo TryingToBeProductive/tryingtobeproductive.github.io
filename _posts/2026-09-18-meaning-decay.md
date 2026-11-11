@@ -4,8 +4,6 @@ title: "Meaning Decay"
 date: 2026-09-18 08:59:12 +0000
 ---
 
-*2026/09/16*
-
 *Estimated Reading Time : 6min*
 
 Usually, we are busy and distracted enough to prevent us from sitting still and contemplating our own existence. However, if your productivity system is working too well, you might find yourself in an unoccupied situation, both mentally and physically, wandering into existential thoughts.

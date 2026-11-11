@@ -4,8 +4,6 @@ title: "Boring Procrastination"
 date: 2026-10-01 09:02:45 +0000
 ---
 
-*2026/09/30*
-
 *Estimated Reading Time : 4min*
 
 Usually, when people talk about procrastination, they tend to use examples such as playing games instead of doing chores or cleaning their room instead of studying for finals. The former situation is easier to understand because chores aren't as entertaining as games. The latter phenomenon can be explained as self-handicapping, where your brain tries to create excuses in advance to prepare for failure.

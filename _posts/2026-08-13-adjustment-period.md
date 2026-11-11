@@ -4,8 +4,6 @@ title: "Adjustment Period"
 date: 2026-08-13 16:24:26 +0000
 ---
 
-*2026/08/12*
-
 *Estimated Reading Time : 4min*
 
 Whether your life demands it or the environment forces it upon you, you have to spend some time adjusting your schedules, workflows, or routines to keep up with changing circumstances. On an individual level, transition periods can occur when you are moving on to a new project, experiencing a personal paradigm shift that makes you feel alienated from your current circumstances, or changing careers. On a larger scale, they can range from cultural shifts and emerging generations to norm-breaking innovations. Everyone knows that adaptation takes time, but that does not make the process any easier to go through.

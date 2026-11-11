@@ -4,8 +4,6 @@ title: "Recommending Blank Boards"
 date: 2026-04-20 20:58:46 +0000
 ---
 
-*2026/04/20*
-
 *Estimated Reading Time : 4-5min*
 
 Writing can clarify a significant part of your thinking process. We have all experienced this: as we write, we uncover logical inconsistencies, missing [details](/2026/03/06/details/), and mismatches between expectations and reality. Especially for concepts that are difficult to grasp, many of us need to put them into words in order to understand them.

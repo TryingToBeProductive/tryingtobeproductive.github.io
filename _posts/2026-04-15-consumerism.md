@@ -4,8 +4,6 @@ title: "Consumerism"
 date: 2026-04-15 08:52:23 +0000
 ---
 
-*2026/04/14*
-
 *Estimated Reading Time : 4-5min*
 
 Most of us hate [advertisements](/2026/03/22/recommending-ad-blockers/), yet we willingly participate in what they promote: consumerism. If we pause for a moment, we often realize that we consume far more than necessary. Do we really need to buy that candy, own high-performance hardware, or even watch endless online entertainment? Frankly, no. But we want these things, and society actively encourages this desire, perpetuating a never-ending cycle of consumption. As if that were not enough, producers have framed purchasing as a way to signal identity, adding an unnecessary social dimension to the act.

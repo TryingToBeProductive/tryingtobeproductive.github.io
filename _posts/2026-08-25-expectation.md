@@ -4,8 +4,6 @@ title: "Expectation"
 date: 2026-08-25 15:41:21 +0000
 ---
 
-*2026/08/25*
-
 *Estimated Reading Time : 3-4min*
 
 "The higher they rise, the harder they fall" is a variant of the famous phrase "The bigger they are, the harder they fall," yet the former better captures how we experience letdowns.

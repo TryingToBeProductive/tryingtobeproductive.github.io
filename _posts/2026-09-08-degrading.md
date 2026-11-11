@@ -4,8 +4,6 @@ title: "Degrading"
 date: 2026-09-08 20:56:01 +0000
 ---
 
-*2026/09/02*
-
 *Estimated Reading Time : 3-4min*
 
 Any physical object—a book, a light, a heater, or a car—degrades over time. A cynical person might say that a limited lifespan is built into products so that companies can sell more. Engineers, on the other hand, would claim that they have reached the limits of what is physically possible.

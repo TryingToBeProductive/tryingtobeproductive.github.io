@@ -4,8 +4,6 @@ title: "Whole System Review"
 date: 2026-09-27 18:14:22 +0000
 ---
 
-*2026/09/*21
-
 *Estimated Reading Time : 4-5min*
 
 When you [read a book](/2026/02/27/reading/) for the first time, you take time to highlight, reread certain parts, and organize important insights into notes in order to memorize them. After going through all of this, one might believe that they have absorbed everything there is to know from the book. Yet, when reviewing the whole book, we find new connections, understand the bigger picture, and pick up [details](/2026/03/06/details/) that were missed during the first reading. Even in a casual setting, such as when we consume content, rewatching it with knowledge of the entire plot doesn't ruin the experience. In fact, it allows us to focus on and appreciate the craft, from minor creative decisions to the overarching structure.

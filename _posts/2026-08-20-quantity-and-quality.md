@@ -4,8 +4,6 @@ title: "Quantity & Quality"
 date: 2026-08-20 22:41:23 +0000
 ---
 
-*2026/08/20*
-
 *Estimated Reading Time : 3-4min*
 
 An age-old debate: quantity vs. quality. On the pro-quality side, there are phrases such as "Work smarter, not harder," "Less is more," and the literal "Quality over quantity." On the pro-quantity side, there are quotes like "Genius is 1% inspiration, 99% perspiration," "Throw enough mud at the wall and some will stick," and "Outwork everyone."

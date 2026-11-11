@@ -4,8 +4,6 @@ title: "Take your time because you can't rush perfection but don't be sluggish"
 date: 2026-09-29 08:44:46 +0000
 ---
 
-*2026/09/27*
-
 *Estimated Reading Time : 4min*
 
 When we read headlines, everything seems to happen suddenly or to have only been developing for a few weeks. Of course, if you dive deeper into any [news](/2026/03/02/news/), statements, or changes, you would quickly realize that the seeds were planted a long time ago and only managed to get our attention now.

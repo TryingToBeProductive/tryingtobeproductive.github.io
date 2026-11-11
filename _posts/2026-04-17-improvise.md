@@ -4,8 +4,6 @@ title: "Improvise"
 date: 2026-04-17 20:15:13 +0000
 ---
 
-*2026/04/17*
-
 *Estimated Reading Time : 4-5min*
 
 “Improvise, adapt, and overcome.” The phrase has become so ubiquitous that many people treat it more as a meme than as practical advice. Yet if the goal is to maintain or improve performance without additional investment, this principle offers a effective guide.

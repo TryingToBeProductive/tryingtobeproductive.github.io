@@ -4,8 +4,6 @@ title: "This is fine"
 date: 2026-08-28 14:42:36 +0000
 ---
 
-*2026/08/28*
-
 *Estimated Reading Time : 2-3min*
 
 It might be beating a dead horse at this point, but the spread of the "This Is Fine" meme can't be understated. An anthropomorphic dog calmly sipping coffee in a burning room while saying, "This is fine," somehow managed to capture the feeling of billions of people worldwide.

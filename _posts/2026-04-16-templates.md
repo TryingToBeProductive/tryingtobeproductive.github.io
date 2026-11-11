@@ -4,8 +4,6 @@ title: "Templates"
 date: 2026-04-16 18:39:01 +0000
 ---
 
-*2026/04/15*
-
 *Estimated Reading Time : 4-5min*
 
 When starting something new—either alone or with others—you will often encounter ready-made templates. These might include presentation slides, website designs, or step-by-step guides for setting up workflows and projects. Even [note taking](/2026/02/11/note-taking/) systems have become another templates to promote. Protocols, ranging from budgeting to internal communication, can also be seen as templates in a broader sense. They are powerful tools for reducing the number of decisions required in [repetitive](/2026/04/06/automation/) tasks.

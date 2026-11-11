@@ -4,8 +4,6 @@ title: "Social Signaling"
 date: 2026-05-24 17:59:27 +0000
 ---
 
-*2026/05/22*
-
 *Estimated Reading Time : 5min*
 
 Being social creatures helped humanity build the civilization we live in today. However, the same tendencies that allow cooperation and collective progress can also be exploited for the benefit of others or lead us toward actions that are mostly performative.

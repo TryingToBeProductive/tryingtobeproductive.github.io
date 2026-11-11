@@ -4,8 +4,6 @@ title: "Flow State"
 date: 2026-04-28 08:59:17 +0000
 ---
 
-*2026/04/27*
-
 *Estimated Reading Time : 3-4min*
 
 When people discuss focus in the productivity space, the term “flow state” often comes up. It describes a condition in which you are so deeply engaged in a task that time seems to pass more quickly than usual. In this state, performance feels effortless, and many assume it represents peak productivity that should be sustained whenever possible.

@@ -4,8 +4,6 @@ title: "Silliness"
 date: 2026-05-17 14:12:11 +0000
 ---
 
-*2026/05/14*
-
 *Estimated Reading Time : 5-6min*
 
 When most people think about productivity, they usually approach it with a serious mindset. However, productivity encompasses countless fields, concepts, and forms of work. If that is the case, could “silliness”—the apparent opposite of seriousness—also become part of a productive framework?

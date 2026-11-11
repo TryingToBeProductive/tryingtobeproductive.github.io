@@ -4,8 +4,6 @@ title: "Need vs Want"
 date: 2026-05-01 08:17:51 +0000
 ---
 
-*2026/04/29*
-
 *Estimated Reading Time : 6-7min*
 
 Before Christmas, we are often asked what we would like as a gift. Strangely, many of us suddenly feel as though we do not want anything. Of course, this is not entirely true—we often want many things, sometimes even everything, as our browsing history would suggest. However, when asked to choose just one, we begin to reflect on our desires and reassess them through the lens of necessity, as if the choice must be justified.

@@ -4,8 +4,6 @@ title: "System-Conflict"
 date: 2026-09-13 20:12:41 +0000
 ---
 
-*2026/09/09*
-
 *Estimated Reading Time : 4min*
 
 Even when we try to create rules that serve a single purpose—self-betterment—we sometimes get caught off guard by underlying conflicts hidden between them.

@@ -4,8 +4,6 @@ title: "Replacing"
 date: 2026-04-21 21:22:57 +0000
 ---
 
-*2026/04/21*
-
 *Estimated Reading Time : 3-4min*
 
 For a mechanic, replacing parts such as gears, pistons, shafts, and wires is simply part of the job. Even though most of us are not mechanics, we still have to repair and improve parts of our lives by switching [tools](/2026/04/27/tools/), upgrading hardware, or changing the way we work.

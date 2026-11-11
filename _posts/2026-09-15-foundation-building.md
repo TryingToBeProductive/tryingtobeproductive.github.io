@@ -4,8 +4,6 @@ title: "Foundation Building"
 date: 2026-09-15 21:15:28 +0000
 ---
 
-*2026/09/14*
-
 *Estimated Reading Time : 4-5min*
 
 People tend to use a house as an analogy to explain the importance of a foundation. It is quite easy to imagine that, without solid ground, a building might sink, crack, or fall down altogether. Yet, barely anyone talks about HOW to build the base. The general attitude tends to be, "You will figure it out along the way." I mean, we do stumble upon some tips and tricks while working through a project. However, we can hardly call this efficient, let alone productive. Furthermore, foundation building is usually the dullest part of any work since you are at the furthest point from your goal while still figuring out how to even reach it.

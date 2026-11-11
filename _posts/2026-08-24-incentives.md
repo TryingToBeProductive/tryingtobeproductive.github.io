@@ -4,8 +4,6 @@ title: "Incentives"
 date: 2026-08-24 21:36:09 +0000
 ---
 
-*2026/08/24*
-
 *Estimated Reading Time : 3-4min*
 
 We sometimes make excuses such as "I am not motivated" or "I lack the incentives" for our laziness. Of course, to prevent it, we automate our workflows, turn them into [routines](/2026/02/20/routines/), or redefine our objectives to further reduce our reliance on motivation. However, we tend to forget that there are incentives, both from within and from outside, that encourage us to procrastinate.

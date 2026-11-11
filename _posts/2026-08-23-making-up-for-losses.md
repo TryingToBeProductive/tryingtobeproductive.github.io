@@ -4,8 +4,6 @@ title: "Making Up For Losses"
 date: 2026-08-23 18:30:36 +0000
 ---
 
-*2026/08/23*
-
 *Estimated Reading Time : 3-4min*
 
 We have all heard stories of companies going bankrupt because their managers weren't able to get rid of the sunk-cost fallacy. When a project becomes an obvious failure, further investment is futile. Recoup the losses through new projects and initiatives, not by continuing to invest in a failing scheme.

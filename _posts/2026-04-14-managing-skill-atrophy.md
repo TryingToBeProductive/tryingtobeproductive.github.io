@@ -4,8 +4,6 @@ title: "Managing Skill Atrophy"
 date: 2026-04-14 08:44:39 +0000
 ---
 
-*2026/04/13*
-
 *Estimated Reading Time : 4-5min*
 
 You may have learned complex mathematical operations or memorized world history in great detail during your school years. However, most adults—even those who remain in academia—would struggle to answer questions that their younger selves would have found easy. While it can feel discouraging to realize that you can no longer do things you once could, we are now also facing the possibility of accelerating skill atrophy through increased reliance on AI. As the saying goes, “use it or lose it.” But do we really need to invest our limited resources in maintaining skills we are not using?

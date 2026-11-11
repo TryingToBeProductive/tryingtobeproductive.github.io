@@ -4,8 +4,6 @@ title: "Devil's Advocate"
 date: 2026-05-10 12:10:30 +0000
 ---
 
-*2026/05/08*
-
 *Estimated Reading Time : 3-4min*
 
 Playing devil’s advocate is one of the more enjoyable ways to think deeply about a topic. Although it is not as rigorous as systematic analysis, it still provides a simple tool for conducting mental simulations, perspective shifts, and critical examinations of our own thought processes.

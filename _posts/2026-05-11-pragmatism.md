@@ -4,8 +4,6 @@ title: "Pragmatism"
 date: 2026-05-11 19:44:05 +0000
 ---
 
-*2026/05/10*
-
 *Estimated Reading Time : 4-5min*
 
 *Realpolitik* is often described as a pragmatic approach to international relations, most famously associated with Henry Kissinger. Of course, other notable figures either actively embraced or were forced to adopt similar approaches, including Otto von Bismarck, Deng Xiaoping, and Lee Kuan Yew. Deng Xiaoping even summarized his philosophy with the phrase: “It doesn’t matter whether a cat is black or white, as long as it catches mice.” Although realpolitik is often criticized for its lack of morality, the results it produced were undeniably significant: the unification of Germany, major achievements in U.S. foreign policy, and the transformation of a poor nation into a global superpower.

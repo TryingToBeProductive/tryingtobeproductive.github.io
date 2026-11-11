@@ -4,8 +4,6 @@ title: "How to Commence a Project"
 date: 2026-04-24 20:01:17 +0000
 ---
 
-*2026/04/23*
-
 *Estimated Reading Time : 5-6min*
 
 You have defined a clear goal, conducted some research, and outlined a rough timeline. The logical next step is to put that preparation into action. Yet, over-preparation can become a trap: you now understand most of the required steps, but struggle to decide which one to take first.

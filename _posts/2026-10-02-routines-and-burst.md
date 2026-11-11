@@ -4,8 +4,6 @@ title: "Routines and Burst"
 date: 2026-10-02 08:51:57 +0000
 ---
 
-*2026/10/02*
-
 *Estimated Reading Time : 2-3min*
 
 You are starting a new project. It will take a few months to complete, but most of the work is either straightforward or repetitive. So you turn it into a [routine](/2026/02/20/routines/), doing it every day for 30 minutes. Yet, by that logic, you realize that you could gain a month’s worth of progress by doing it for 14 hours straight on [weekends](/2026/08/17/working-on-holidays/). Therefore, you might wonder: should you blast through large projects or work toward them incrementally?

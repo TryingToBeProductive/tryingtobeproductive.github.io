@@ -4,8 +4,6 @@ title: "Abstract Thinking"
 date: 2026-08-19 22:13:29 +0000
 ---
 
-*2026/08/19*
-
 *Estimated Reading Time : 2-3min*
 
 A chapter of a given math textbook usually follows the same order: the definition of a theorem, its proof, and examples as exercises. This is a typical progression from the abstract to the concrete. Most of the time, students begin to understand the concepts after going through the examples rather than through abstract proofs and definitions.

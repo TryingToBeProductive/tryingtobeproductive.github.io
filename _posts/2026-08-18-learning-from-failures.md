@@ -4,8 +4,6 @@ title: "Learning From Failures"
 date: 2026-08-18 22:36:52 +0000
 ---
 
-*2026/08/18*
-
 *Estimated Reading Time : 3min*
 
 “Sleeping on brushwood and tasting gall” is a Chinese idiom describing someone who endures hardship and imposes discipline on themselves in order to achieve a long-term [goal](/2026/02/13/goal-setting/) or seek revenge — essentially, enduring hardship and remembering past humiliation to fulfill an ambition.

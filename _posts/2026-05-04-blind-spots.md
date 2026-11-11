@@ -4,8 +4,6 @@ title: "Blind Spots"
 date: 2026-05-04 16:29:25 +0000
 ---
 
-*2026/05/02*
-
 *Estimated Reading Time : 4-5min*
 
 No matter how many times we encounter them, blind spots still catch us off guard. What makes them frustrating is not that we *cannot* see them, but that we fail to notice them—even when they sit right under our noses. We can offer excuses: lack of knowledge, limited hands-on experience, flawed assumptions, cognitive biases, or simply that something had never been an issue before. Still, letting things slip through unnoticed and dealing with the consequences afterward is inefficient. Most would agree that preventing problems in advance saves far more time than fixing them later.

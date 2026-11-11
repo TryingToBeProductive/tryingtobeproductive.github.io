@@ -4,8 +4,6 @@ title: "Squeezing"
 date: 2026-08-27 15:02:09 +0000
 ---
 
-*2026/08/27*
-
 *Estimated Reading Time : 3-4min*
 
 Even when you have gone through a workflow multiple times, it is still hard to avoid Hofstadter's Law: "It always takes longer than you expect, even when you take into account Hofstadter's Law." This becomes quickly noticeable when you do hyper-scheduling and [time tracking](/2026/02/09/time-management/) every day.

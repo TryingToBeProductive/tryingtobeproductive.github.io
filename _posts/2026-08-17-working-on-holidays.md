@@ -4,8 +4,6 @@ title: "Working on Holidays"
 date: 2026-08-17 17:18:17 +0000
 ---
 
-*2026/08/17*
-
 *Estimated Reading Time : 2min*
 
 “Can I make my weekends more productive?” If given a choice, most people would rather do anything but work. However, when you don't have specific plans for the weekend and are aware that work is piling up during your [break](/2026/02/26/taking-breaks/), the idea becomes intriguing.

@@ -4,8 +4,6 @@ title: "Adding vs Subtracting"
 date: 2026-08-30 15:52:40 +0000
 ---
 
-*2026/08/30*
-
 *Estimated Reading Time : 3-4min*
 
 If you skim through your [goals](/2026/02/13/goal-setting/), you might notice that most of them are either "Do X more" or "Do Y less." When reviewing our own lives, we might find ourselves being a maximalist in some aspects while being a minimalist in others. Of course, we also have processes that end up at zero, such as replacing our tools by throwing away the old ones and buying new ones.
