@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Managing Hyperfixation"
+date: 2026-03-10 15:19:30 +0000
+---
+
+*2026/03/10*
+
+*Estimated Reading Time : 4-5min*
+
+Every brain is built differently, and the internet—and the world—contain an infinite variety of material. When the right minds are exposed to the right content, something clicks, sometimes too strongly. If those interests help advance our goals, they can be a gift to our productivity. However, if they have nothing to do with our lives—such as fictional franchises, collections meant purely for display, or questions that lead nowhere—we may have a problem. Some may call this issue “preoccupation.” Depending on the severity, others might call it “hyperfixation.” Especially in the age of information, the chance of experiencing something like this is statistically inevitable. So we need a plan to deal with it before it is too late.
+
+Before “treatment,” the first line of defense is always prevention. Just like with contagions, decreasing exposure reduces infection. You may have heard a similar idea in discussions about the origin of the term “meme.” In addition to restrictions imposed by private [DNS](/2026/03/03/managing-private-dns/) filters, we also need to prevent new material from reaching our minds through features such as “Recommendations,” “Read Next,” or the homepage. Fortunately, there are plenty of browser extensions and third-party apps that can block them from appearing in the first place. We can also bypass entire websites by using RSS feeds instead. As is often said in medicine, prevention is always cheaper than a cure. So spend time building your mental fortress before your core gets compromised.
+
+Even with strong borders, a few things may still slip through under the right conditions. They might arrive as a Trojan horse, hidden inside something you were already consuming. Or they may sneak back in through nostalgia, especially if they were planted when you were young. No matter the case, once your mind has been hijacked, you need to make your environment unfavorable for the fixation to spread—much like how the body raises its temperature during an infection. In many cases, strict time budgeting through [time tracking](/2026/02/09/time-management/) and hyper-cheduling kills the motivation to pursue the distraction. When combined with disciplined financial budgeting, it cuts off the two essential resources—time and money—that allow unwanted interests to grow.
+
+However, if you have plenty of free time and spare cash, it may be difficult to eliminate the “weed.” In such cases, it might be better to quickly exhaust the obsession than to resist it indefinitely. By deliberately spending the available time and resources, the fixation may burn itself out faster. With an aggressive strategy, you can even treat the obsession like a task list and grind through it. When there is nowhere left to go and nothing new to explore, boredom eventually takes over and the fixation fades.
+
+No matter how unique our keyholes are, there are always plenty of equally unique keys capable of breaking into our minds. With reduced exposure and limited resources, an obsession is less likely to grow into an [unmanageable](/2026/10/01/boring-procrastination/) size. But when it does take hold, sometimes the best strategy is to let it consume itself. Once the parasites are gone, we can regain full control of our minds and [return](/2026/04/10/restarting-systems/) to being productive.

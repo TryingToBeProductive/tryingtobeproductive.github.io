@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Dealing with Mood Swings"
+date: 2026-03-24 15:58:23 +0000
+---
+
+*2026/03/23*
+
+*Estimated Reading Time : 4-5min*
+
+Whether we like it or not, most of the time, emotions—not logic—guide our day-to-day lives. We could list all the pros and cons whenever we make a decision, but we usually don’t have the time or mental space for such a complex process. As a result, we make judgments based on how we feel about our options rather than on objective facts. Neuroscientists have even coined the “somatic marker hypothesis” to describe this phenomenon. Some people may have heard of a case in which a doctor became frustrated with a patient whose emotions were impaired after brain surgery—the patient could explain every detail but could not decide something as simple as when to schedule their next appointment.
+
+We need emotions to function properly, but we can also be hijacked by them. When we are in a very good mood, we tend to neglect the risks associated with certain actions and pay the price later. On the other hand, when we perceive threats or are under intense pressure, we react instinctively—freezing or triggering fight-or-flight responses that often do not improve the situation. Humans have evolved to be highly sensitive to potential threats. As a result, even a small perceived danger can cause our minds to fixate on it, becoming a major disruptor of our performance.
+
+I do not have a solution for mood swings caused by physical conditions other than consulting a healthcare provider. However, if they originate from external stimuli, there are ways to manage them. As you may know, many emotions are reactions to what we receive from our environment. Unfortunately, highly triggering information is more likely to spread and be promoted. Therefore, one of the quickest ways to reduce mood swings is to limit exposure to external inputs. Of course, you cannot shut yourself off from the world entirely, but you can delay your exposure. The period from waking up until you go online is sometimes called the “golden hours.” Unless you had a particularly disturbing night, your mindset during this time is relatively neutral. By intentionally protecting these hours and using them to focus on important work, you can make progress with fewer internal distractions.
+
+Recognizing emotional influence is easy; handling it properly is the real challenge. Letting instinct take over will not solve the problem, but constantly resisting it also drains our focus. In such cases, the best approach is to postpone the issue. By writing it down on a [to-do](/2026/02/22/to-do-list/) list and scheduling a time to address it later, you free up mental space. Interestingly, this also turns procrastination into an advantage. When your emotional reaction becomes just another task, it becomes easier to ignore in the moment and [redirect](/2026/04/21/replacing/) your attention to what actually matters.
+
+Emotions often deliver the final verdict in our decisions, so we need a reasonable level of control over the process. External influences can bias the outcome, tipping the scales in the wrong direction. That is why we must protect the mind from unnecessary interference. At the same time, when we sense an imbalance, we should delay judgment until we regain stability. By maintaining both our internal state and external environment, we can ensure that our decisions are not distorted and that our performance remains consistent.
