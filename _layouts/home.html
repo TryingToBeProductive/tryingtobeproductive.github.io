@@ -1,0 +1,120 @@
+---
+layout: default
+---
+<div class="home">
+  {%- if page.title -%}<h1 class="page-heading">{{ page.title }}</h1>{%- endif -%}
+  {{ content }}
+
+  <style>
+    #search-input { width: 100%; box-sizing: border-box; padding: .6em .8em; font: inherit; border: 1px solid #bbb; border-radius: 4px; margin: 1em 0 .25em; }
+    .post-excerpt { margin: .25em 0 1.5em; }
+    #search-results mark { background: #fff3a3; padding: 0 2px; }
+    .visually-hidden { position: absolute; left: -9999px; }
+  </style>
+
+  <div class="post-search">
+    <label for="search-input" class="visually-hidden">Search posts</label>
+    <input type="search" id="search-input" placeholder="Search posts…" autocomplete="off">
+    <p id="search-status" class="post-meta" aria-live="polite"></p>
+  </div>
+
+  {%- if site.posts.size > 0 -%}
+  <ul class="post-list" id="post-list">
+    {%- for post in site.posts -%}
+    {%- assign paras = post.content | split: '</p>' -%}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
+        {%- if paras[0] contains 'Estimated Reading Time' %} · {{ paras[0] | strip_html | remove: 'Estimated Reading Time' | remove: ':' | strip }} read{% endif -%}
+      </span>
+      <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+      <p class="post-excerpt">{{ paras[1] | strip_html | strip | truncatewords: 45 }}</p>
+    </li>
+    {%- endfor -%}
+  </ul>
+  <ul class="post-list" id="search-results" hidden></ul>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+</div>
+
+<script>var SEARCH_URL = "{{ '/search.json' | relative_url }}";</script>
+{% raw %}
+<script>
+(function () {
+  var input = document.getElementById('search-input');
+  var list = document.getElementById('post-list');
+  var results = document.getElementById('search-results');
+  var status = document.getElementById('search-status');
+  var posts = null, pending = null;
+
+  function load() {
+    if (!pending) {
+      pending = fetch(SEARCH_URL)
+        .then(function (r) { return r.json(); })
+        .then(function (d) {
+          d.forEach(function (x) { x.content = x.content.replace(/^Estimated Reading Time\s*:\s*\S+\s*/i, ''); });
+          posts = d;
+        });
+    }
+    return pending;
+  }
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function rx(s) { return s.replace(/[.*+?^$(){}|[\]\\]/g, '\\$&'); }
+  function highlight(text, terms) {
+    var re = new RegExp('(' + terms.map(rx).join('|') + ')', 'gi');
+    return text.split(re).map(function (part, i) {
+      return i % 2 ? '<mark>' + esc(part) + '</mark>' : esc(part);
+    }).join('');
+  }
+  function snippet(text, terms) {
+    var low = text.toLowerCase(), pos = -1;
+    terms.forEach(function (t) {
+      var p = low.indexOf(t);
+      if (p >= 0 && (pos < 0 || p < pos)) pos = p;
+    });
+    if (pos < 0) pos = 0;
+    var start = Math.max(0, pos - 60), end = Math.min(text.length, pos + 140);
+    return (start > 0 ? '… ' : '') + text.slice(start, end) + (end < text.length ? ' …' : '');
+  }
+  function search(terms) {
+    var out = [];
+    posts.forEach(function (p) {
+      var title = p.title.toLowerCase(), body = p.content.toLowerCase(), score = 0, ok = true;
+      terms.forEach(function (t) {
+        var inTitle = title.indexOf(t) >= 0;
+        var n = body.split(t).length - 1;
+        if (!inTitle && n === 0) ok = false;
+        score += (inTitle ? 20 : 0) + Math.min(n, 10);
+      });
+      if (ok) out.push({ p: p, score: score });
+    });
+    out.sort(function (a, b) { return b.score - a.score; });
+    return out;
+  }
+  function run() {
+    var q = input.value.trim();
+    if (!q) {
+      results.hidden = true; list.hidden = false; status.textContent = '';
+      return;
+    }
+    load().then(function () {
+      if (input.value.trim() !== q) return;
+      var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+      var found = search(terms);
+      status.textContent = found.length
+        ? found.length + (found.length === 1 ? ' post' : ' posts') + ' found'
+        : 'No posts found';
+      results.innerHTML = found.slice(0, 50).map(function (r) {
+        return '<li><span class="post-meta">' + esc(r.p.date) + '</span>' +
+          '<h3><a class="post-link" href="' + esc(r.p.url) + '">' + highlight(r.p.title, terms) + '</a></h3>' +
+          '<p class="post-excerpt">' + highlight(snippet(r.p.content, terms), terms) + '</p></li>';
+      }).join('');
+      list.hidden = true; results.hidden = false;
+    }).catch(function () { status.textContent = 'Search is unavailable right now.'; });
+  }
+  input.addEventListener('input', run);
+  input.addEventListener('focus', load);
+})();
+</script>
+{% endraw %}
