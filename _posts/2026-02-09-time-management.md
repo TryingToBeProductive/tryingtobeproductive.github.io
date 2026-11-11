@@ -4,8 +4,6 @@ title: "Time Management"
 date: 2026-02-09 15:37:54 +0000
 ---
 
-*2026/02/09*
-
 *Estimated Reading Time : 3-4min*
 
 If you have consumed any books or podcasts about productivity, you have probably heard how important time management is. You may also have come across terms like *“time tracking,”* *“hyper-scheduling,”* and so on. When you are already busy with daily tasks, being asked to plan and track all of your time sounds overwhelming. However, as someone who has tried it for a month, I can assure you that the productivity gains from spending extra time thinking about “time” itself are worth it.

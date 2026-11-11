@@ -4,8 +4,6 @@ title: "Is writing Blog productive ?"
 date: 2026-02-07 04:58:07 +0000
 ---
 
-*2026/02/07*
-
 *Estimated Reading Time : 3-4min*
 
 In an age when AI can write great articles within seconds, it can truely feel like creating any kind of content is a waste of time. So if you are reading this, you may be thinking about starting something of your own but feel discouraged by the current circumstances. While I was trying to decide whether to commit or not, I found three criteria that allowed me to feel confident about my decision.

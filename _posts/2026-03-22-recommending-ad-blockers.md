@@ -4,8 +4,6 @@ title: "Recommending Ad-Blockers"
 date: 2026-03-22 16:30:31 +0000
 ---
 
-*2026/03/22*
-
 *Estimated Reading Time : 3-4min*
 
 It goes without saying that advertisements are annoying. They interrupt your flow, promote consumerist behavior, and clutter your mind with meaningless information. There is no need to convince you that they harm your performance. I can also skip the moral arguments about ads, because if you are not going to click them anyway, you neither make the provider richer nor poorer by simply viewing them. [Blocking](/2026/02/24/blocking-distractions/) these disruptors is easy; the hard part is building a system that is almost all-encompassing.

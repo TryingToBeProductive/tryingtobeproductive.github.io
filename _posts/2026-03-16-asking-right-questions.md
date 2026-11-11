@@ -4,8 +4,6 @@ title: "Asking Right Questions"
 date: 2026-03-16 13:10:41 +0000
 ---
 
-*2026/03/16*
-
 *Estimated Reading Time : 2-3min*
 
 Who, What, When, Where, Why, and How. The famous 5W1H method for quickly performing a comprehensive analysis. You may also have heard of the reductionist approach: examining each small piece in order to understand the whole. In either case, finding a solution begins with asking questions. The recipient of our inquiry can be a person, a machine, or even ourselves. If we want to reach answers efficiently, we need to at least reach a level where we can ask the right questions. But how do we get there?

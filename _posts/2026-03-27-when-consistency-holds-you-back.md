@@ -4,8 +4,6 @@ title: "When Consistency holds you back"
 date: 2026-03-27 18:35:39 +0000
 ---
 
-*2026/03/27*
-
 *Estimated Reading Time : 3-4min*
 
 Most people prefer predictable patterns, and nothing provides more predictability than consistency. When outcomes remain stable across different situations, they give us a sense of security, reduce cognitive load, and build confidence in our responses. Depending on the task, consistent results can also help [eliminate](/2026/03/12/minimalism/) redundancies in systems that would otherwise need to handle outliers. For a biological brain that constantly prioritizes energy conservation, such ‘coherent’ structures are much easier to process. However, consistency becomes counterproductive when it is forced onto situations where it does not naturally exist.

@@ -4,8 +4,6 @@ title: "Taking Breaks"
 date: 2026-02-26 14:00:58 +0000
 ---
 
-*2026/02/26*
-
 *Estimated Reading Time : 3-4min*
 
 We need breaks — we all know that. However, determining how much time should be devoted to intentional rest is tricky. Too little, and you will not feel fully recharged to tackle the next task. Too much, and things simply will not get done. What about mindless entertainment? Even if you watch a movie at 3× speed, it still takes more than half an hour to finish one — time that feels like it could be used better. But unless you have trained yourself sufficiently, it is difficult to keep working without some kind of personal reward, such as consuming content.

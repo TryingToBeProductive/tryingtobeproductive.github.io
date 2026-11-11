@@ -4,8 +4,6 @@ title: "Dealing With Completionist Mindset"
 date: 2026-04-05 12:23:20 +0000
 ---
 
-*2026/04/04*
-
 *Estimated Reading Time : 3-4min*
 
 Most of us want to complete our projects to feel a sense of achievement. It usually serves as a good motivator to keep us moving. However, it can sometimes be used against us and derail our progress. There are plenty of past projects or endeavors that we later realize did not align with our goals or no longer fit our current situation. Companies also take advantage of this tendency to increase sales—through collectibles, streaks, and similar mechanisms. Even when we know that completing something for its own sake is unproductive, it is quite hard to ignore the [sunk cost](/2026/08/23/making-up-for-losses/) and walk away.

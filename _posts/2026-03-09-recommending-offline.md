@@ -4,8 +4,6 @@ title: "Recommending Offline"
 date: 2026-03-09 15:11:53 +0000
 ---
 
-*2026/03/09*
-
 *Estimated Reading Time : 3-4min*
 
 Have you ever used airplane mode on your phone or PC? If you have been on a plane before, you probably have. But what about using it on land with Wi-Fi turned off? When I tried it for the first time, of course I felt disconnected, but I also felt liberated—as if digital chains had been broken. You might experience something similar when you fully go offline. Even when your devices are in sleep mode, your subconscious mind may still feel connected to the internet because we all know, deep down, that we are only one swipe away from accessing it. Once that entrance is sealed, we can cut the digital strings that have been wrapping around our minds and regain a sense of autonomy.

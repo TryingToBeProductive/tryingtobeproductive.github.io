@@ -4,8 +4,6 @@ title: "Notifications"
 date: 2026-03-08 14:43:03 +0000
 ---
 
-*2026/03/08*
-
 *Estimated Reading Time : 3-4min*
 
 We live in a time when anyone in the world can interrupt our flow from anywhere, as long as our phones have a signal. As most of us have experienced, once the flow is disrupted, it can take quite a while to regain it. However, some messages are important, and if left unchecked they may cause minor headaches later. Notifications need to be approached carefully, or they may harm our productivity.

@@ -4,8 +4,6 @@ title: "Solutionist Mindset"
 date: 2026-04-05 21:30:18 +0000
 ---
 
-*2026/04/05*
-
 *Estimated Reading Time : 3min*
 
 Nowadays, techno-optimists tend to be criticized for their tendency to oversimplify societal issues and promote investment in new technologies instead of improving existing [tools](/2026/04/27/tools/). These critiques are valid, and we need to be aware of them. As the saying goes, “To a man with a hammer, everything looks like a nail.”

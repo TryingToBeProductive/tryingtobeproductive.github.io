@@ -4,8 +4,6 @@ title: "Minimalism"
 date: 2026-03-12 22:10:12 +0000
 ---
 
-*2026/03/12*
-
 *Estimated Reading Time : 2-3min*
 
 “Out of sight, out of mind.” The proverb is self-explanatory: if you cannot see something, you are less likely to think about it. Sometimes this causes us to forget important tasks, but at other times, removing a physical object means one less thing competing for our attention. A mild implementation of this concept would be wearing the same clothes every day—like Steve Jobs—to reduce the number of decisions we have to make each day. The extreme version would be what people call “minimalism”: removing as much as possible from your life and keeping only the bare essentials for basic survival.

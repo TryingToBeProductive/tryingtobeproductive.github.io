@@ -4,8 +4,6 @@ title: "Recommending Standing Desk"
 date: 2026-03-31 19:30:21 +0000
 ---
 
-*2026/03/31*
-
 *Estimated Reading Time : 3-4min*
 
 When we are young, we are conditioned to believe that serious work—such as studying—takes place at a desk with a chair. However, if you look around modern workplaces, more companies and even self-employed individuals are adopting standing desks for deep work. Is this just another productivity trend that makes people *feel* more productive, or does it actually improve performance?

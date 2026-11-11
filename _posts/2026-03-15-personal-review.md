@@ -4,8 +4,6 @@ title: "Personal Review"
 date: 2026-03-15 15:20:46 +0000
 ---
 
-*2026/03/14*
-
 *Estimated Reading Time : 3-4min*
 
 Even if you have never written your own journal before, you have certainly seen, heard about, or met someone who does. They might do it for practical reasons, such as keeping records of past actions or remembering lessons. Others might do it as a form of self-care, such as self-talk therapy or objective reflection. Even within journaling itself, there are many different styles. Some could be categorized as the classic “Dear diary…” format. There are also gratitude journals focused primarily on altering one’s perspective. People also approach their past [notes](/2026/02/11/note-taking/) differently. Some intentionally set aside time to read through the thoughts of their past selves and recontextualize their present circumstances. Others leave them to be forgotten, or in extreme cases, erase or burn them before they die.

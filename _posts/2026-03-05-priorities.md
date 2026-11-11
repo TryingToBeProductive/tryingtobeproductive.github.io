@@ -4,8 +4,6 @@ title: "Priorities"
 date: 2026-03-05 16:05:52 +0000
 ---
 
-*2026/03/05*
-
 *Estimated Reading Time : 3-4min*
 
 We are social creatures. Whether we like it or not, we constantly compare ourselves with others. You have probably heard the advice many times: “Don’t compare your worst with someone else’s best. It’s not productive.” But when you think about it, why are some people skilled or talented in certain areas while being inept in others? Some differences are too complex to be explained simply by “genes.” There is another explanation: priorities.

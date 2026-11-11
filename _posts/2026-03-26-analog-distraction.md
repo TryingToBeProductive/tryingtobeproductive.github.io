@@ -4,8 +4,6 @@ title: "Analog Distraction"
 date: 2026-03-26 18:40:27 +0000
 ---
 
-*2026/03/26*
-
 *Estimated Reading Time : 4-5min*
 
 You may have heard people from previous generations pushing back against even earlier generations who claimed that young people’s brains were being “rotted” by new forms of media. For example, magazines were once criticized in much the same way that smartphones are today. At first glance, this argument seems valid, but it may not feel directly applicable to our current situation, especially when the internet appears to consume such a large portion of our time. However, once we manage to [block](/2026/02/24/blocking-distractions/), filter, and effectively control modern digital distractions, we may be surprised to find that those older claims still hold true. We do not need digital [tools](/2026/04/27/tools/) to procrastinate—analog ones can serve the same purpose just as effectively.

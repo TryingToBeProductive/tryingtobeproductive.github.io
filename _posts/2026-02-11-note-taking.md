@@ -4,8 +4,6 @@ title: "Note Taking"
 date: 2026-02-11 21:35:48 +0000
 ---
 
-*2026/02/11*
-
 *Estimated Reading Time : 3-4 min*
 
 “Memo,” “[Task Manager](/2026/02/22/to-do-list/),” “Diary” — these can all be grouped under the umbrella of “note-taking.” You may also have heard terms like “Second Brain” or “Personal [Knowledge Management](/2026/05/13/organizing-notes/).” Setting up such a system sounds difficult — and it is. However, once you have laid the [groundwork](/2026/09/15/foundation-building/), things only get better from there. Tools improve our productivity, and note-taking is one of the most cost-effective force multipliers.

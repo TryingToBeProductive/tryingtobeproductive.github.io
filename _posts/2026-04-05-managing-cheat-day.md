@@ -4,8 +4,6 @@ title: "Managing Cheat Day"
 date: 2026-04-05 17:14:24 +0000
 ---
 
-*2026/04/05*
-
 *Estimated Reading Time : 3min*
 
 [Blocking](/2026/02/24/blocking-distractions/) distractions is necessary to preserve productivity. However, to make a filter truly effective, we often end up locking out apps or websites that are also useful for improving performance. This includes apps like system settings that grant permissions, or websites such as industry [news](/2026/03/02/news/) that help us understand the current landscape. Even YouTube tutorials can sometimes be more effective than written instructions when problems are difficult to understand.

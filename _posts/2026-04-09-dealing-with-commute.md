@@ -4,8 +4,6 @@ title: "Dealing with Commute"
 date: 2026-04-09 21:28:03 +0000
 ---
 
-*2026/04/09*
-
 *Estimated Reading Time : 5-6min*
 
 For many of us, when we reflect on how we spend our time each day, commuting can feel meaninglessly repetitive. We spend over an hour traveling through the same streets, only to retrace our steps later that day. Some may even feel trapped when no viable alternatives exist. Even the ancient Greeks viewed endless cycles as a cruel punishment, as illustrated in the myth of Sisyphus.

@@ -4,8 +4,6 @@ title: "Blocking Distractions"
 date: 2026-02-24 15:28:50 +0000
 ---
 
-*2026/02/24*
-
 *Estimated Reading Time : 4-5min*
 
 “Internet was a mistake.” You may have thought that before — especially when you get sucked into a vortex engineered by geniuses in Silicon Valley. You may have heard discussions about the “attention economy.” You may have watched the documentary *The Social Dilemma*, which warns about its dangers. Whether we like it or not, most of us are aware of how destructive distractions are to our daily productivity.

@@ -4,8 +4,6 @@ title: "Goal Setting"
 date: 2026-02-13 17:24:01 +0000
 ---
 
-*2026/02/13*
-
 *Estimated Reading Time : 5-6min*
 
 Whether we are aware of it or not, most of our actions are done to achieve certain goals. Some of these goals are set by other people — “Quarterly Goals,” “Grades,” or “Familial Goals” — which we have to internalize and align our mindset with in order to complete what has been asked of us. However, goals made by ourselves, even though they are thought out from our own values, needs, and wants, are surprisingly often not followed through.

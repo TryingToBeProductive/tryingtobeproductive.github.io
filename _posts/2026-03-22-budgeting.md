@@ -4,8 +4,6 @@ title: "Budgeting"
 date: 2026-03-22 15:34:45 +0000
 ---
 
-*2026/03/21*
-
 *Estimated Reading Time : 3min*
 
 People often talk about money as a way to buy time—to free ourselves so we can focus on more important things. This idea usually appears in the context of chores. If we look at human progress, we can see a pattern that supports this: by delegating tasks to other people or to machines, we free up more time for ourselves.

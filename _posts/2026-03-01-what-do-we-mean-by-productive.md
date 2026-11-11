@@ -4,8 +4,6 @@ title: "What do we mean by \"Productive?\""
 date: 2026-03-01 21:58:15 +0000
 ---
 
-*2026/03/01*
-
 *Estimated Reading Time : 3min*
 
 Repeating the word “productive” too many times made me stop and think, *what does it actually mean again?* You may have heard of a similar phenomenon called semantic satiation — when repeating a word so often that it temporarily loses its meaning and starts to feel like just a series of sounds.

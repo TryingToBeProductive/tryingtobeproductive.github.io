@@ -4,9 +4,7 @@ title: "Opportunity"
 date: 2026-04-07 20:17:05 +0000
 ---
 
-*2026/04/07*
-
-*Estimated Reading time : 4-5min*
+*Estimated Reading Time : 4-5min*
 
 Fans of NASA and space exploration will always remember the legendary Mars rover, Opportunity. Its name was given by a nine-year-old girl who had endured hardship but still found hope in the sky. Her essay perfectly captured NASA’s mission: a chance to explore Mars scientifically and make breakthrough discoveries along the way. The mission exceeded all expectations, allowing humanity to operate on Martian soil for 15 years instead of the originally planned 90 days. It was an extraordinary run, and it tells a neat story about why accepting worthwhile challenges matters.
 

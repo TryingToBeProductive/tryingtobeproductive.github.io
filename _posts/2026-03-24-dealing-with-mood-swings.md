@@ -4,8 +4,6 @@ title: "Dealing with Mood Swings"
 date: 2026-03-24 15:58:23 +0000
 ---
 
-*2026/03/23*
-
 *Estimated Reading Time : 4-5min*
 
 Whether we like it or not, most of the time, emotions—not logic—guide our day-to-day lives. We could list all the pros and cons whenever we make a decision, but we usually don’t have the time or mental space for such a complex process. As a result, we make judgments based on how we feel about our options rather than on objective facts. Neuroscientists have even coined the “somatic marker hypothesis” to describe this phenomenon. Some people may have heard of a case in which a doctor became frustrated with a patient whose emotions were impaired after brain surgery—the patient could explain every detail but could not decide something as simple as when to schedule their next appointment.

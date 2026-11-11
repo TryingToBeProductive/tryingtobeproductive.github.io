@@ -4,8 +4,6 @@ title: "Thinking in Statistics"
 date: 2026-03-04 18:29:01 +0000
 ---
 
-*2026/03/04*
-
 *Estimated Reading Time : 3-4min*
 
 Statistics are persuasive. By adding a percentage sign behind a number, it manages to convey a cold, hard fact while still allowing us to interpret it as we please. “If it states more than 50%, it means it is more likely.” “If it states more than 90%, it is almost certain.” Or, “Less than 5% means it is nearly nonexistent.” But when reality does not turn out as we predicted, we start blaming the statistic and label it as “unreliable.”

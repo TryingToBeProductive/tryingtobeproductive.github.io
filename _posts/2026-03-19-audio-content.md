@@ -4,8 +4,6 @@ title: "Audio Content"
 date: 2026-03-19 12:56:28 +0000
 ---
 
-*2026/03/19*
-
 *Estimated Reading Time : 3-4min*
 
 We all know that distractions can cause a dip in performance. However, we sometimes intentionally listen to music, podcasts, or audiobooks while doing chores, working, or even exercising. Most of us are aware of the trade-off: in exchange for taking longer to complete a task, we gain the motivation or [mood](/2026/03/24/dealing-with-mood-swings/) needed to push through it. There are some activities where the benefits of audio content do not outweigh the costs. Some people draw the line at coding or driving, while others continue listening even when reading or writing.

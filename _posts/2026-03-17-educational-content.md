@@ -4,8 +4,6 @@ title: "Educational Content"
 date: 2026-03-17 13:55:00 +0000
 ---
 
-*2026/03/17*
-
 *Estimated Reading Time : 4-5min*
 
 “Knowledge is power.” Most people would not immediately object to this idea. But should we spend most of our time acquiring knowledge? Even those whose jobs revolve around information management would hesitate to say yes. It is quite obvious that if we are always in the “motion stage”—periods of learning, preparing, and planning—we will never reach the “action stage,” where real work gets done. Therefore, whenever we set a timeline for a new [goal](/2026/02/13/goal-setting/), even if we are not fully conscious of it, we usually assign a time limit for gathering materials in order to ensure that things actually get completed.

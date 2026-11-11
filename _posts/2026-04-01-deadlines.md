@@ -4,8 +4,6 @@ title: "Deadlines"
 date: 2026-04-01 08:59:06 +0000
 ---
 
-*2026/04/01*
-
 *Estimated Reading Time : 4-5min*
 
 Most of us hate deadlines—I don’t know anyone who actually likes them. Nevertheless, they are a necessary evil for organizations to function properly. Tasks must be divided in order to deliver a product or service on time. Each individual has their own priorities and schedule to follow. As a result, there must be a shared time constraint that all parties agree to—or, in some cases, comply with—so that work can be transferred smoothly.

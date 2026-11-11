@@ -4,8 +4,6 @@ title: "Trade-offs"
 date: 2026-04-02 20:02:34 +0000
 ---
 
-*2026/04/02*
-
 *Estimated Reading Time : 4-5min*
 
 “Not everything can be explained in black and white.” It is a statement people often use to persuade others to be more “realistic.” If we look around, we can find plenty of examples that support this idea: morally ambiguous laws and justice systems, inconsistent marketing decisions, and even partially defined information. However, this observation does not explain *why* so many aspects of life exist in a gray zone—a fact that can be frustrating. One explanation lies in trade-offs.

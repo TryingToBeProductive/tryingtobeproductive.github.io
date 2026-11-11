@@ -4,8 +4,6 @@ title: "Dealing with System Breakdowns"
 date: 2026-03-20 14:03:09 +0000
 ---
 
-*2026/03/20*
-
 *Estimated Reading Time : 3-4min*
 
 No matter how resilient our systems are, when enough stress is applied or essential parts are missing, they break. Sometimes the collateral damage is local—minor hiccups in the workflow. Other times, the effects are so significant that they impair our usual routines or disrupt our tight schedules. Breakdowns are inevitable, so we should prepare contingency plans.

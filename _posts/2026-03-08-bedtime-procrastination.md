@@ -4,8 +4,6 @@ title: "Bedtime Procrastination"
 date: 2026-03-08 13:32:17 +0000
 ---
 
-*2026/03/07*
-
 *Estimated Reading Time : 4-5min*
 
 We are constantly reminded of how illogical our brains can be. In my case—and I believe most people have experienced this as well—I see that side of my mind every 24 hours before going to sleep. Sleep is a prerequisite for a productive workday; everyone knows that. Then why would our inner selves try to stay awake longer than necessary? If you search for “bedtime procrastination,” you will find plenty of psychological explanations for this phenomenon. In this blog, however, I will skip that part and go straight to how to deal with it systematically.

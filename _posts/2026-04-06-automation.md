@@ -4,8 +4,6 @@ title: "Automation"
 date: 2026-04-06 21:43:17 +0000
 ---
 
-*2026/04/06*
-
 *Estimated Reading Time : 4-5min*
 
 It has become a running joke in programming communities that some coders spend more time writing automation scripts than doing the work itself. The same mistake can occur in the physical world—wasting time tinkering with smart appliances when chores could be done manually in minutes, or overthinking the steps instead of actually starting. Systems are powerful force multipliers, but if we are not careful, building them can become a form of productive procrastination.

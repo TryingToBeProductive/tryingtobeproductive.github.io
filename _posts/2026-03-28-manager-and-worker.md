@@ -4,8 +4,6 @@ title: "Manager & Worker"
 date: 2026-03-28 18:08:40 +0000
 ---
 
-*2026/03/28*
-
 *Estimated Reading Time : 2-3min*
 
 People who dislike the traditional 9–5 job—or grifters who profit from encouraging others to “go independent”—often say, *“When you work for yourself, you can be your own boss.”* Taken positively, this suggests complete control over your life. On the other hand, it can also be interpreted as having a boss living rent-free in your mind 24/7.

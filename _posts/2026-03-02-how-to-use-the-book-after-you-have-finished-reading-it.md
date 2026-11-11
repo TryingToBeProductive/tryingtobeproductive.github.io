@@ -4,8 +4,6 @@ title: "How to use the book after you have finished reading it"
 date: 2026-03-02 14:02:31 +0000
 ---
 
-*2026/03/01*
-
 *Estimated Reading Time : 4-5min*
 
 You have [read the entire book](/2026/02/27/reading/) from front to back, and now you might be wondering, *“Now What?”*

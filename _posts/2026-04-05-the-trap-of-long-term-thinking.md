@@ -4,8 +4,6 @@ title: "The Trap of Long-Term Thinking"
 date: 2026-04-05 15:29:50 +0000
 ---
 
-*2026/04/05*
-
 *Estimated Reading Time : 3-4min*
 
 Most would agree that disregarding long-term consequences never ends well. However, if you plan everything on the scale of a lifetime, it becomes paralyzing. There are many temporary goals or moves that one must make to meet the demands of the outside world, regardless of personal life objectives. Even our values change, prompting decisions that would have been unthinkable in the past. Combined with the unpredictable nature of reality, it becomes almost impossible to fit every action, task, and personal system into a single narrative.

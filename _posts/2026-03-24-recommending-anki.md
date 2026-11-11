@@ -4,8 +4,6 @@ title: "Recommending Anki"
 date: 2026-03-24 17:13:08 +0000
 ---
 
-*2026/03/24*
-
 *Estimated Reading Time : 3-4min*
 
 If you were a student, you may have heard of a software called Anki. You may also be familiar with “spaced repetition,” a technique that helps you retain information with minimal time investment. As you might expect, Anki (open-sourced) is designed to show you flashcards at the optimal time to reinforce memory. At first glance, this may seem more like a study trick than a productivity tool. However, when applied to the right goals, it can significantly accelerate a large part of the process.

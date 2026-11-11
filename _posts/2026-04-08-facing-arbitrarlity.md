@@ -4,8 +4,6 @@ title: "Facing Arbitrarlity"
 date: 2026-04-08 20:06:22 +0000
 ---
 
-*2026/04/08*
-
 *Estimated Reading Time : 4-5min*
 
 Most reasonable economists would suggest that inflation should be kept around 2%. An average citizen might assume that this figure was derived from rigorous analysis. In reality, it originated from an impulsive statement made by a New Zealand's finance minister. Although there were negotiations afterward, the number was not grounded in clear theoretical reasoning. Yet this seemingly arbitrary decision helped stabilize the economy, prompting other nations to adopt similar targets. It may be logically unsatisfying, but it has produced workable results, enabling participants in the market to operate more effectively.

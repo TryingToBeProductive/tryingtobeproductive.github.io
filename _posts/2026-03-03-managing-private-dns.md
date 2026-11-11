@@ -4,8 +4,6 @@ title: "Managing Private DNS"
 date: 2026-03-03 16:50:51 +0000
 ---
 
-*2026/03/03*
-
 *Estimated Reading Time : 4-5min*
 
 You have set up your private DNS using NextDNS, Pi-hole, or another preferred service. You have even locked your settings so that you cannot simply disable the DNS to access certain websites. However, there is still one backdoor left open: the DNS dashboard itself.

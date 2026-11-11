@@ -4,8 +4,6 @@ title: "5-Minute Rule isn't working, now what?"
 date: 2026-02-25 14:16:02 +0000
 ---
 
-*2026/02/25*
-
 *Estimated Reading Time : 3-4min*
 
 One of the first tricks people learn when trying to overcome procrastination is the 5-minute rule: just do the task for five minutes, then decide whether you want to continue. In most cases, once your mind and body have adjusted to the new activity, it becomes easier to keep going than to stop. Our biochemistry is designed to maintain homeostasis, so it is often difficult to interrupt what we are already doing and change direction.

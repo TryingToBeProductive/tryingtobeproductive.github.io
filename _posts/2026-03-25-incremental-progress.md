@@ -4,8 +4,6 @@ title: "Incremental Progress"
 date: 2026-03-25 14:36:07 +0000
 ---
 
-*2026/03/25*
-
 *Estimated Reading Time : 4-5min*
 
 When it comes to the power of incremental progress, physical training provides one of the clearest examples. Let’s say you want to do 100 push-ups without stopping. Most people would find this impossible at first, because their bodies simply can’t handle it. However, if you shift your [goal](/2026/02/13/goal-setting/) to increasing your push-up count by just one each day until you reach 100, the task becomes far more achievable. This approach also significantly reduces the daily workload while allowing your muscles to adapt gradually. Even as it becomes more difficult near the end, the barrier remains low enough to overcome. The idea is simple: small changes accumulate into meaningful results—much like the logic behind building routines.

@@ -4,8 +4,6 @@ title: "Questioning Default"
 date: 2026-03-18 16:52:21 +0000
 ---
 
-*2026/03/18*
-
 *Estimated Reading Time : 3-4min*
 
 Browsers, search engines, and office software are largely dominated by a few products: Chromium-based browsers, Google, and Microsoft 365. There are plenty of alternatives—both free and premium—that could better serve our needs. However, those who use them are still a minority because, as companies already understand, moving beyond the default requires a significant amount of energy. There are two main factors that keep us from changing: our biological tendency to conserve energy and the high activation energy required to switch. As a result, similar to a Boltzmann distribution, most people remain as they are, while only a few receive enough push to do otherwise.

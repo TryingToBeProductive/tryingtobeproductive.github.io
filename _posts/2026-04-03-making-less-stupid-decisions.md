@@ -4,8 +4,6 @@ title: "Making Less Stupid Decisions"
 date: 2026-04-03 21:23:36 +0000
 ---
 
-*2026/04/03*
-
 *Estimated Reading Time : 3-4min*
 
 If you know Warren Buffett, you may have heard about his favorite book, *The Intelligent Investor*. Looking at the title alone, one might believe that it teaches smart financial strategies. However, most of the advice in the book can be boiled down to “don’t make stupid investments.” It could be as simple as “buy low, sell high,” “don’t take risks you can’t afford,” or even as mundane as “have an emergency fund before trading stocks.” It was quite an eye-opener for me because it taught me that being smart doesn’t mean operating in a sophisticated manner, but rather being less dumb.

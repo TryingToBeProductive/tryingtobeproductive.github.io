@@ -4,8 +4,6 @@ title: "Survivorship bias & FOMO"
 date: 2026-03-15 17:20:17 +0000
 ---
 
-*2026/03/15*
-
 *Estimated Reading Time : 3-4min*
 
 There are plenty of statistical errors we need to be aware of, and Survivorship Bias is one of the more notable ones. You have probably heard the story in many contexts: if a plane survives an enemy attack, the parts that were damaged are actually non-lethal, while the parts that were not damaged should be reinforced instead. Similarly, for every successful singer, there are hundreds or thousands of people who never make it. If you do a little research, you will find many examples across diverse situations in which being aware of this logical fallacy can save a significant amount of time and effort.
